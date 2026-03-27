@@ -42,7 +42,7 @@ A curated list of resources for those conducting research on AI policy in Africa
 
 * [The African Institute for Data Science and Artificial Intelligence (AfriDSAI)](https://www.up.ac.za/afridsai), University of Pretoria 
 
-* [Data Science Law Lab](https://datasciencelawlab.africa/)https://datasciencelawlab.africa/, University of Pretoria	
+* [Data Science Law Lab](https://datasciencelawlab.africa/), University of Pretoria	
 
 * [Artificial Intelligence & Robotics Lab (AIROL)](https://airol.unilag.edu.ng/), University of Lagos	
 
