@@ -30,6 +30,27 @@ A curated list of resources for those conducting research on AI policy in Africa
 
 * [Windhoek Statement on Artificial Intelligence in Southern Africa](https://unesdoc.unesco.org/ark:/48223/pf0000383197)
 
+## University Research Centers and Hubs
+
+* [The African Hub on AI Safety, Peace and Security](https://ai.uct.ac.za/african-hub-ai-safety-peace-security), University of Cape Town 
+
+* [Responsible AI Lab (RAIL)](https://rail.knust.edu.gh/about-rail/), Kwame Nkrumah University
+
+* [Centre for Intellectual Property and Information Technology Law (CIPIT)](https://cipit.strathmore.edu/about/), Strathmore University
+
+* [Makerere University Centre for Artificial Intelligence (MAK-AI)](https://air.ug/), Makerere University		
+
+* [The African Institute for Data Science and Artificial Intelligence (AfriDSAI)](https://www.up.ac.za/afridsai), University of Pretoria 
+
+* [Data Science Law Lab](https://datasciencelawlab.africa/)https://datasciencelawlab.africa/, University of Pretoria	
+
+* [Artificial Intelligence & Robotics Lab (AIROL)](https://airol.unilag.edu.ng/), University of Lagos	
+
+* [The Tayarisha Initiative on Digital Governance](https://www.wits.ac.za/tayarisha/), University of the Witwatersrand
+
+* [Wits MIND Institute](https://www.wits.ac.za/mind/), University of the Witwatersrand
+
+
 ## Publications
 * [AI Diplomacy Guide for Africa: A Resource to Shape Governance and Dialogue](https://www.tgov.org/post/ai-diplomacy-guide-for-africa-a-resource-to-shape-governance-and-dialogue)
 
@@ -60,6 +81,43 @@ A curated list of resources for those conducting research on AI policy in Africa
 * [Trustworthy AI: African Perspectives](https://link.springer.com/book/10.1007/978-3-031-75674-0)
 
 * [Understanding Africa’s AI Governance Landscape: Insights From Policy Practice and Dialogue](https://carnegieendowment.org/posts/2025/09/understanding-africas-ai-governance-landscape-insights-from-policy-practice-and-dialogue)
+
+## Organizations
+* [Africa Research Institute for AI (ARIFA)](https://arifa.org)
+
+* [African Centre for Technology Studies (ACTS)](https://acts-net.org)
+
+* [African Technology Policy Studies Network](https://atpsnet.org/about-atps)
+
+* [AI Safety Nigeria](https://aisafetynigeria.com)
+
+* [AI Safety South Africa](https://www.aisafetysa.com)
+
+* [Collaboration on International ICT Policy in East and Southern Africa](https://cipesa.org )
+
+* [Global Center on AI Governance](https://www.globalcenter.ai)
+
+* [Equiano Institute](https://www.equiano.institute)
+
+* [ILINA Program](https://www.ilinaprogram.org )
+
+* [KICTANet](https://www.kictanet.or.ke)
+
+* [Lawyers Hub Africa](https://www.lawyershub.org)
+
+* [Paradigm Initiative](https://paradigmhq.org)
+
+* [Pollicy](https://pollicy.org )
+
+* [Qhala](https://qhala.com )
+
+* [Research ICT Africa](https://researchictafrica.net)
+
+* [Rwanda Centre for the Fourth Industrial Revolution](https://c4ir.rw/)
+
+* [Smart Africa](http://www.smartafrica.org)
+
+* [Tech Governance Project](https://www.tgov.org)
 
 
 ##### Licensing and Attribution
